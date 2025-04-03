@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nuggetsImage" type="id">Nuggets and Dip</item>
+    <item name="samosasImage" type="id">Samosa</item>
+    <item name="springRollsImage" type="id">Spring Rolls</item>
+</resources>
